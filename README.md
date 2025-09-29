@@ -36,8 +36,14 @@ Esta es la capa de inmersión final, dedicada a la narrativa del logro del atlet
 
 ## Capturas de Pantalla
 
+<img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/09b510ba-4f20-4d78-9d97-d772536517da" />
+
 | Nivel 1: Selección de Deporte | Nivel 2: Lista de Atletas | Nivel 3: Detalle del Momento |
 | :--- | :--- | :--- |
-| [Captura de pantalla de la vista principal con botones de deporte] | [Captura de pantalla de la lista de atletas con tarjetas] | [Captura de pantalla de la vista de detalle con la imagen ampliada y el botón de estadísticas]
+| <img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b71a14b0-a1f2-4143-8102-6befae6c4e81" /> | <img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/2b7eacf6-4f1b-4ee1-ae23-3b4184550107" /> | <img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f62015bf-9205-445b-ad85-1fc1ced3ac63" />
 
 ---
+
+
+
+
